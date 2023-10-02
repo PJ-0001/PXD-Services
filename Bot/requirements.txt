@@ -1,0 +1,6 @@
+discord
+random2
+asyncio
+datetime
+base64
+python-dateutil
