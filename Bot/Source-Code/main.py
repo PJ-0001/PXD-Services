@@ -4,7 +4,7 @@
 
 # Explanation: This Discord bot was skillfully crafted by PJ0001, a dedicated Senior Highschool Student with a passion for ethical hacking. PJ0001 invested several days of effort into developing this bot as a means to educate individuals about the realm of ethical hacking.
 # With a deep interest in hacking, PJ0001 embarked on this journey to create an educational tool that introduces users to the concepts of ethical hacking. Through this bot, users can explore various functionalities related to cybersecurity while maintaining an ethical perspective.
-# PJ0001's dedication to promoting responsible hacking practices shines through in this bot's design, which aims to provide insight into the world of hacking without compromising ethical values. By engaging with this bot, users can gain valuable knowledge and insights into the intriguing realm of cybersecurity.
+
 #Code Starts on Line 60
 
 
